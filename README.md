@@ -1,1 +1,2 @@
-# Coursera_Capstone
+# Coursera_Capstone Project
+The purpose of this research is to attempt to cluster cities in Ontario, Canada by categories of its most popular venue types. In doing so, we can distinguish cities by certain traits. The target audience for this report could be new businesses looking to enter cities or homeowners looking to settle somewhere. The problem entails the gathering of cities in Ontario with their venues and applying a machine learning algorithm to cluster similar cities. As a result, different types of cities can be classified (i.e. restaurant, bar cities) and generate insight into what cities in Ontario are based upon.
