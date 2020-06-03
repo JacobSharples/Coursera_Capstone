@@ -1,0 +1,54 @@
+Name,Status,Division,Population (2016),Population (2011),Change,Area,Density,Latitude,Longitude
+Barrie,Single-tier,Simcoe,141434,136063,3.9,99.04,1428.0,44.38934,-79.685418
+Belleville,Single-tier,Hastings,50716,49454,2.6,247.25,205.1,44.164013,-77.382466
+Brampton,Lower-tier,Peel,593638,523911,13.3,266.36,2228.7,43.68402,-79.759046
+Brant,Single-tier,Brant,36707,35638,3.0,843.25,43.5,43.101486,-80.428403
+Brantford,Single-tier,Brant,97496,93650,4.1,72.44,1345.9,43.139405,-80.263646
+Brockville,Single-tier,Leeds and Grenville,21346,21870,−2.4,20.85,1023.6,44.58958,-75.684303
+Burlington,Lower-tier,Halton,183314,175779,4.3,185.66,987.3,43.325991,-79.798296
+Cambridge,Lower-tier,Waterloo,129920,126748,2.5,113.01,1149.6,43.397792,-80.307223
+Clarence-Rockland,Lower-tier,Prescott and Russell,24512,23185,5.7,297.71,82.3,45.564162,-75.247716
+Cornwall,Single-tier,"Stormont, Dundas and Glengarry",46589,46340,0.5,61.56,756.8,45.018258,-74.728577
+Dryden,Single-tier,Kenora,7749,7617,1.7,66.19,117.1,49.782056,-92.834388
+Elliot Lake,Single-tier,Algoma,10741,11348,−5.3,714.65,15.0,46.381658,-82.659438
+Greater Sudbury,Single-tier,Sudbury,161531,160274,0.8,3228.35,50.0,46.48952,-80.989155
+Guelph,Single-tier,Wellington,131794,121688,8.3,87.22,1511.1,43.544774,-80.248091
+Haldimand County,Single-tier,Haldimand,45608,44876,1.6,1251.54,36.4,42.951208,-79.856175
+Hamilton,Single-tier,Hamilton,536917,519949,3.3,1117.29,480.6,43.256503,-79.874423
+Kawartha Lakes,Single-tier,Kawartha Lakes,75423,73214,3.0,3084.38,24.5,44.355002,-78.742927
+Kenora,Single-tier,Kenora,15096,15348,−1.6,211.59,71.3,49.765258,-94.477687
+Kingston,Single-tier,Frontenac,123798,123363,0.4,451.19,274.4,44.230468,-76.481187
+Kitchener,Lower-tier,Waterloo,233222,219153,6.4,136.77,1705.2,43.449787,-80.489089
+London,Single-tier,Middlesex,383822,366151,4.8,420.35,913.1,42.984267,-81.247534
+Markham,Lower-tier,York,328966,301709,9.0,212.35,1549.2,43.873987,-79.259867
+Mississauga,Lower-tier,Peel,721599,713443,1.1,292.43,2467.6,43.586162,-79.646215
+Niagara Falls,Lower-tier,Niagara,88071,82997,6.1,209.73,419.9,43.106641,-79.065209
+Norfolk County,Single-tier,Norfolk,64044,63175,1.4,1607.55,39.8,42.813182,-80.374632
+North Bay,Single-tier,Nipissing,51553,53651,−3.9,319.11,161.6,46.309464,-79.46163
+Orillia,Single-tier,Simcoe,31166,30586,1.9,28.58,1090.3,44.611477,-79.415624
+Oshawa,Lower-tier,Durham,159458,149607,6.6,145.64,1094.9,43.896085,-78.865128
+Ottawa,Single-tier,Ottawa,934243,883391,5.8,2790.3,334.8,45.420421,-75.692432
+Owen Sound,Lower-tier,Grey,21341,21688,−1.6,24.27,879.2,44.573961,-80.923275
+Pembroke,Single-tier,Renfrew,13882,14360,−3.3,14.56,953.3,45.826679,-77.110818
+Peterborough,Single-tier,Peterborough,81032,78698,2.9,64.25,1261.2,44.305913,-78.320087
+Pickering,Lower-tier,Durham,91771,88721,3.4,231.55,396.3,43.834365,-79.082022
+Port Colborne,Lower-tier,Niagara,18306,18424,−0.6,121.96,150.1,42.886251,-79.251371
+Prince Edward County,Single-tier,Prince Edward,24735,25258,−2.1,1050.49,23.5,44.006281,-77.14386
+Quinte West,Single-tier,Hastings,43577,43086,1.1,494.02,88.2,44.183475,-77.568531
+Richmond Hill,Lower-tier,York,195022,185541,5.1,101.11,1928.8,43.875871,-79.438267
+Sarnia,Lower-tier,Lambton,71594,72366,−1.1,164.85,434.3,42.912551,-82.455641
+Sault Ste. Marie,Single-tier,Algoma,73368,75141,−2.4,223.24,328.6,46.511291,-84.335157
+St. Catharines,Lower-tier,Niagara,133113,131400,1.3,96.13,1384.8,43.159989,-79.247016
+St. Thomas,Single-tier,Elgin,38909,37905,2.6,35.63,1092.1,42.775142,-81.185978
+Stratford,Single-tier,Perth,31465,30886,1.8,28.28,1112.5,43.372968,-80.97509
+Temiskaming Shores,Single-tier,Timiskaming,9920,10400,−4.6,178.11,55.7,47.448986,-79.633161
+Thorold,Lower-tier,Niagara,18801,17931,4.9,82.99,226.5,43.122906,-79.206479
+Thunder Bay,Single-tier,Thunder Bay,107909,108359,−0.4,328.36,328.6,48.38251,-89.245486
+Timmins,Single-tier,Cochrane,41788,43165,−3.2,2978.83,14.0,48.476115,-81.328332
+Toronto,Single-tier,Toronto,2731571,2615060,4.5,630.2,4334.4,43.651893,-79.381713
+Vaughan,Lower-tier,York,306233,288301,6.2,273.56,1119.4,43.850443,-79.511368
+Waterloo,Lower-tier,Waterloo,104986,98780,6.3,64.02,1639.8,43.465041,-80.523566
+Welland,Lower-tier,Niagara,52293,50631,3.3,81.04,645.3,42.993507,-79.228177
+Windsor,Single-tier,Essex,217188,210891,3.0,146.38,1483.8,42.314081,-83.036857
+Woodstock,Lower-tier,Oxford,40902,37754,8.3,48.97,835.3,43.130387,-80.754677
+Total cities,—,—,9900179,9478924,2.39,26045.14,813.91,44.99089,-93.23624
